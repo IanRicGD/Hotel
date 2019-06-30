@@ -1,0 +1,42 @@
+.imgInicio{
+	height: 700px;
+}
+.logo{
+	margin-top:-5px;
+	height: 72px;
+}
+.titulo{
+	color: #DC3FC4;
+	font-family: 'Arimo', sans-serif;
+}
+.menu{
+	color: black;
+}
+.habitacion-text, .rest-text{
+	font-size: 24px;
+}
+.icon{
+	height: 50px;
+	width: 50px;
+}
+.rest{
+	font-size: 30px;
+	font-weight:bold;
+}
+.imgRest{
+	height: 650px;
+	width: 100%;
+}
+.contacto{
+	margin-bottom:0px;
+	margin-left: -10px;
+}
+iframe{
+	width: 100%;
+	height: 100%;
+}
+p{
+	font-family: 'Arimo', sans-serif;
+	font-size: 17px;
+	text-align: justify;
+}
